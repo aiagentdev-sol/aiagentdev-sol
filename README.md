@@ -60,6 +60,6 @@ I'm Solana and Evm blockchain developer. I've developed various tools and smart 
 ---
 
 ### 💼 **Let's Connect**
-If you're looking for expertise in the Solana ecosystem, blockchain development, or smart contracts, feel free to reach out for consultation. I'm excited to explore new opportunities and collaborations!
+If you're looking for senior developer in the Solana ecosystem, blockchain development, or smart contracts, feel free to reach out for consultation. I'm excited to explore new opportunities and collaborations!
 
 ---
